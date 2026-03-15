@@ -119,11 +119,11 @@ UI/UX Design • Automation • Hackathons • Robotics • Drone Aviation • S
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/shravni-andhale-b583b0348/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto: shravaniandhale@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
