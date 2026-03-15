@@ -59,24 +59,55 @@ Additional Tools
 
 ---
 
-# 💼 Experience
+# 💼 Hackathons & Project Experience
 
-### Backend Developer — HACKNOVA (EKLAVYA) | 2026
-- Developed **Braille-based keyboard input system** for visually impaired students
-- Implemented **real-time Braille-to-text conversion using NLP**
-- Integrated **text-to-speech for accessibility**
+### 🚀 Smart India Hackathon – JATAYU | 2025
+**Role:** Collaborative Team Member  
 
-### Backend Developer — ECHELON 2.0 (VIDHYUT) | 2026
-- Built **hardware-level power cutoff system**
-- Designed **motion-based automation with monitoring dashboard**
+- Participated in a **national-level hackathon**
+- Contributed to **drone-powered offline data transfer system**
+- Worked on **system feasibility and architecture design**
+- Collaborated with a multidisciplinary development team
 
-### UI/UX Designer — CODEATHON (PACmate) | 2025
-- Participated in **competitive coding and problem-solving challenges**
-- Applied **Data Structures and logical problem solving**
-- Collaborated in a **team-based development environment**
 
 ---
 
+### 💻 InternLink Ideathon – VIT | 2025
+**Role:** Web Developer  
+
+- Developed the **InternLink platform prototype**
+- Built front-end components and UI workflow
+- Co-created the project during a **24-hour ideathon**
+- Recognized for **practical execution and innovation**
+
+
+---
+
+### 🧠 HACKNOVA – EKLAVYA | 2026
+**Role:** Backend Developer  
+
+- Developed **Braille-based keyboard input system** for visually impaired students
+- Implemented **real-time Braille-to-text conversion using NLP**
+- Integrated **text-to-speech functionality for accessibility**
+
+
+---
+
+### ⚡ ECHELON 2.0 – VIDHYUT | 2026
+**Role:** Backend Developer  
+
+- Built **hardware-level phantom power consumption cutoff system**
+- Implemented **motion-based automation with real-time monitoring dashboard**
+
+
+---
+
+### 🎨 CODEATHON – PACmate | 2025
+**Role:** UI/UX Designer  
+
+- Participated in **competitive coding and real-time problem solving**
+- Applied **Data Structures and logic building**
+- Collaborated in a **team-based development environment**
 # 🚀 Featured Projects
 
 ⭐ **MindLink Telepathy Challenge**  
